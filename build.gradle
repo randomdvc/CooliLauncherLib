@@ -3,7 +3,7 @@ apply plugin: 'eclipse'
 apply plugin: 'idea'
 apply plugin: 'maven-publish'
 
-group = 'fr.litarvan'
+group = 'org.spyke'
 version = '1.0.0'
 archivesBaseName = 'coolilauncher'
 
