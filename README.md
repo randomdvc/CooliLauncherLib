@@ -1,6 +1,8 @@
 ![OpenLauncherLib logo](http://image.noelshack.com/fichiers/2015/17/1429612277-oolbaniere.png)
 =====
 
+Based On Litarvan OpenLauncherLib https://github.com/Litarvan
+
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/Litarvan)
 
 # Launch everything you want
